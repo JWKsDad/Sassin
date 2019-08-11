@@ -1,2 +1,2 @@
 # Sassin
-Home Automation repo for openHABian installation.
+Repository for openHABian installation.
